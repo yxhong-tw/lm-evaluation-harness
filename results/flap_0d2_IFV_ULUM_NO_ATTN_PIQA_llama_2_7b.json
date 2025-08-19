@@ -1,0 +1,25 @@
+{
+    "arc_easy": {
+        "acc,none": 0.7352693602693603,
+        "acc_norm,none": 0.7138047138047138,
+        "acc_norm_stderr,none": 0.009274470774627725,
+        "acc_stderr,none": 0.009053021086173967,
+        "alias": "arc_easy"
+    },
+    "c4": 9.340642126143496,
+    "gsm8k": {
+        "alias": "gsm8k",
+        "exact_match,flexible-extract": 0.04245640636846096,
+        "exact_match,strict-match": 0.0,
+        "exact_match_stderr,flexible-extract": 0.005553837749990043,
+        "exact_match_stderr,strict-match": 0.0
+    },
+    "hellaswag": {
+        "acc,none": 0.5464050985859391,
+        "acc_norm,none": 0.7321250746863175,
+        "acc_norm_stderr,none": 0.0044194699839391815,
+        "acc_stderr,none": 0.004968244611429391,
+        "alias": "hellaswag"
+    },
+    "wikitext2": 7.105985805076854
+}
