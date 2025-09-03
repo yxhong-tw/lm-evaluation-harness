@@ -28,7 +28,11 @@ from ppl_eval.utils import ppl_eval
 # _MODEL = 'wikitext2_0d4/wikitext2_0d4'
 # _MODEL = 'wikitext2_0d6/wikitext2_0d6'
 # _MODEL = 'wikitext2_0d8/wikitext2_0d8'
-_MODEL = 'c4_0d2/c4_0d2'
+# _MODEL = 'c4_0d2/c4_0d2'
+# _MODEL = 'asvd_0d2_abs-mean_alpaca_llama_2_7b'
+# _MODEL = 'asvd_0d2_abs-mean_openbookqa_llama_2_7b'
+# _MODEL = 'asvd_0d2_abs-mean_piqa_llama_2_7b'
+_MODEL = 'asvd_0d2_abs-mean_wikitext2_llama_2_7b'
 
 _DEVICE = 'cuda:0'
 # _DEVICE = 'cuda:1'
